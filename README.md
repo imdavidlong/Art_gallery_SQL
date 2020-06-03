@@ -19,16 +19,17 @@ Description:
 
 Display:
 
--logined by customers or staffs 
+Login by customers or staffs:
 
-<image src="Screenshots/IMG_2371.JPG" width="20" hight="40">
-
-![image](https://user-images.githubusercontent.com/45018466/83583485-58b09180-a4f9-11ea-82d6-933729309d15.png)
+<image src="Screenshots/IMG_2371.JPG" width="400" hight="1000">
 
 
+After log in,customer can check all the artwork, artist, upcoming
+events and art gallery:
 
-On one hand, once the customers log in, he can check all the artwork, artist, upcoming
-events and art gallery.
+<image src="Screenshots/IMG_2372.JPG" width="300" hight="200">
+
+<image src="Screenshots/IMG_2374.JPG" width="300" hight="200">
 
 
 If the customers have no idea yet, he can check the most popular
