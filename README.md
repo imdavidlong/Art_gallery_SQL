@@ -36,6 +36,7 @@ By SQL, choosing the most popular event.
 <image src="Screenshots/IMG_2375.JPG" width="300" hight="200">
 
 The order history:
+
 <image src="Screenshots/IMG_2377.JPG" width="300" hight="200">
 
 After Administrator log in, he can insert a new artist, artwork(for sale or
