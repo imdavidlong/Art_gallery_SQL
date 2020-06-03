@@ -13,9 +13,10 @@ Description:
                     
                     
          
+- logined by customers or staffs 
 
-At the beginning of the website, there is a login form for customers and staffs to
-log in by entering user id and password.
+![Uploading IMG_2371.JPG…]()
+
 
 On one hand, once the customers log in, he can check all the artwork, artist, upcoming
 events and art gallery.
