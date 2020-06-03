@@ -12,10 +12,19 @@ Description:
                     manage all the info of event,products
                     
                     
-         
-- logined by customers or staffs 
 
-![Uploading IMG_2371.JPG…]()
+
+
+
+
+Display:
+
+-logined by customers or staffs 
+
+<image src="Screenshots/IMG_2371.JPG" width="20" hight="40">
+
+![image](https://user-images.githubusercontent.com/45018466/83583485-58b09180-a4f9-11ea-82d6-933729309d15.png)
+
 
 
 On one hand, once the customers log in, he can check all the artwork, artist, upcoming
