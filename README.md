@@ -1,6 +1,5 @@
 # Art gallery search system
 
-<p style="color:red">This is a red paragraph.</p>
 
 Description: 
 - Artist:   buy/sell their art-works
